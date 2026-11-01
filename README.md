@@ -2,6 +2,10 @@
 ## **Introduction**
 I am a former naval nuclear reactor operator and an aspiring cybersecurity professional. Over my 10 years in the Navy, I served in Yokosuka, Japan; San Diego, California; and Beaumont, Texas. Along the way, I operated nuclear reactors aboard deployed aircraft carriers, ran a Navy recruiting station, and saw the world.
 
-Now, I’m ready to turn the last page of the Navy chapter in the book of my life and begin the cybersecurity chapter. I’m pursuing a Bachelor of Applied Cybersecurity from the SANS Technology Institute, earning GIAC certifications, and competing in capture-the-flag (CTF) competitions.
+Now, I’m ready to turn the last page of the Navy chapter in the book of my life and begin the cybersecurity chapter. I’m pursuing a Bachelor of Applied Cybersecurity from the SANS Technology Institute, earning GIAC certifications, completing cybersecurity internships, and competing in capture-the-flag (CTF) competitions.
 
 I’ll use this repository to showcase that hard work and show future employers what I can do.
+## Capture-the-Flag Experience
+I competed in the Fall 2026 National Cyber League CTF competition. I completed challenges in the areas of OSINT, Cryptography, Password Cracking, Log Analysis, Network Traffic Analysis, Forensics, Scanning and Reconnaissance, Exploitation and Enumeration, and Web Application Exploitation. I completed 85% of these challenges, which put in the top 10% of all competitors.
+### CTF Highlight ###
+While I am not allowed to publicly post any walkthroughs of the NCL challenges, I will say I was able to craft python scripts to step through custom file formats byte-by-byte, decrypt weak RSA ciphertext, and reverse XOR operations to reveal the flag.
