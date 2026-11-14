@@ -6,7 +6,9 @@ Now, I’m ready to start a new chapter in life; the chapter of cybersecurity. I
 
 I’ll use this repository to showcase that hard work and show future employers what I can do.
 ## Capture-the-Flag Experience
-I competed in the Fall 2026 National Cyber League CTF competition. I completed challenges in the areas of OSINT, Cryptography, Password Cracking, Log Analysis, Network Traffic Analysis, Forensics, Scanning and Reconnaissance, Exploitation and Enumeration, and Web Application Exploitation. I completed 86.5% of these challenges, which put me well within the top 10% of all competitors.
+I competed in the Fall 2026 National Cyber League CTF competition, which consisted of an individual game and a team game, and included challenges in the areas of OSINT, Cryptography, Password Cracking, Log Analysis, Network Traffic Analysis, Forensics, Scanning and Reconnaissance, Exploitation and Enumeration, and Web Application Exploitation. I completed 86.5% of these challenges, which put me well within the top 10% of all competitors.
 ### CTF Highlight ###
 While I am not allowed to publicly post any walkthroughs of the NCL challenges I completed, I can say that I was able to craft python scripts to step through custom file formats byte-by-byte, decrypt weak RSA encrypted ciphertext, and use for loops within list comprehensions to reverse XOR operations and successfully extract the flags.
-### NCL Scouting Reports
+### NCL Score Reports
+<img width="677" height="291" alt="Screenshot 2026-11-14 at 4 04 02 PM" src="https://github.com/user-attachments/assets/d8901702-bb0b-4e35-a3c8-615609c0d1ef" />
+<img width="676" height="288" alt="Screenshot 2026-11-14 at 4 04 24 PM" src="https://github.com/user-attachments/assets/8257ee06-908c-4225-82ca-c268f4e72fdc" />
