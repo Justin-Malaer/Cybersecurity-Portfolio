@@ -9,4 +9,6 @@ I’ll use this repository to showcase that hard work and show future employers 
 I competed in the Fall 2026 National Cyber League CTF competition, which consisted of an individual game and a team game, and included challenges in the areas of OSINT, Cryptography, Password Cracking, Log Analysis, Network Traffic Analysis, Forensics, Scanning and Reconnaissance, Exploitation and Enumeration, and Web Application Exploitation. I completed 86% of challenges in the individual game, finishing in the top 10%, and I collaborated with teammates to complete 100% of challenges in the team game, finishing in the top 2%.
 ### CTF Highlight ###
 While I am not allowed to publicly post any walkthroughs of the NCL challenges I completed, I can say that I was able to craft python scripts to step through custom file formats byte-by-byte, decrypt weak RSA encrypted ciphertext, and use for loops within list comprehensions to reverse XOR operations and successfully extract the flags.
-### NCL Score Reports
+### CTF Score Reports
+Fall 2026 National Cyber League Individual Competition Scouting Report: https://cyberskyline.com/report/U49D23REFB39
+Fall 2026 National Cyber League Team Competition Scouting Report: https://cyberskyline.com/report/KE256YJXR8PH
