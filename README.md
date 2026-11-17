@@ -10,5 +10,5 @@ I competed in the Fall 2026 National Cyber League CTF competition, which consist
 ### CTF Highlight ###
 While I am not allowed to publicly post any walkthroughs of the NCL challenges I completed, I can say that I was able to craft python scripts to step through custom file formats byte-by-byte, decrypt weak RSA encrypted ciphertext, and use for loops within list comprehensions to reverse XOR operations and successfully extract the flags.
 ### CTF Score Reports
-Fall 2026 National Cyber League Individual Competition Scouting Report: https://cyberskyline.com/report/U49D23REFB39
-Fall 2026 National Cyber League Team Competition Scouting Report: https://cyberskyline.com/report/KE256YJXR8PH
+#Fall 2026 National Cyber League Individual Competition Scouting Report: https://cyberskyline.com/report/U49D23REFB39
+#Fall 2026 National Cyber League Team Competition Scouting Report: https://cyberskyline.com/report/KE256YJXR8PH
